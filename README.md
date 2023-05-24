@@ -5,6 +5,6 @@ We establish a refined and real-world dataset to support the prediction model of
 The dataset includes pavement performance data, traffic volume data, maintenance data and weather data(the highest temperature, the lowest temperature and moisture) during 100 days of 1093 data points.
 The structure of data is 600 X 1094. 
 Each colume represents 6 variables for 100 days of one data point in certain pavement region.
-Each raw represents value of a property(factor) in a certain day of 1093 data points.
+Each row represents value of a property(factor) in a certain day of 1093 data points.
 The first colume represents the property and time step(start from 0). For example, the traffic volume in second day(the third time step) is named as traffic2.
 
